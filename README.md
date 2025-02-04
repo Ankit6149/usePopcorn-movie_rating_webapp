@@ -1,6 +1,6 @@
-#🎬 usePopcorn - Movie Rating Web App 
+#🎬 usePopcorn - Movie Rating Web App #
 
-📌 Overview
+##📌 Overview ##
 
 usePopcorn is a dynamic and responsive movie rating web application that allows users to search for movies, view details, and rate them. Built with React, it integrates with external movie APIs to provide real-time movie data and a seamless user experience.
 
