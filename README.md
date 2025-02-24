@@ -15,3 +15,7 @@
 - **Styling:** CSS for sleek UI
 - **API Integration:** Fetches data from an external movie database API
 
+### Screenshots
+![image](https://github.com/user-attachments/assets/5cf9ba38-faca-42df-bc96-127486ab5fbe)
+![image](https://github.com/user-attachments/assets/a443e028-d752-4c25-9584-0a88ec200392)
+
